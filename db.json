@@ -1,0 +1,107 @@
+{
+    "forms": [
+      {
+        "id": "8d2e",
+        "formId": "eefa25dd-b5c2-4160-bd04-a8a8b9f581c1",
+        "formTitle": "Food",
+        "elements": [
+          {
+            "fieldLabel": "Type of food",
+            "fieldType": "TEXT_EDIT",
+            "defaultValue": "",
+            "options": [],
+            "isRequired": true,
+            "hidden": false,
+            "isChecked": false,
+            "ElementID": "EID_1726608457716-s8azh",
+            "errorMessage": ""
+          },
+          {
+            "fieldLabel": "Product",
+            "fieldType": "TEXT_EDIT",
+            "defaultValue": "",
+            "options": [],
+            "isRequired": true,
+            "hidden": false,
+            "isChecked": false,
+            "ElementID": "EID_1726608478076-sxeu8",
+            "errorMessage": "fill product"
+          }
+        ]
+      }
+    ],
+    "submissions": [
+      {
+        "id": "8d2e",
+        "formId": "eefa25dd-b5c2-4160-bd04-a8a8b9f581c1",
+        "values": {
+          "EID_1726608457716-s8azh": "Vegetables",
+          "EID_1726608478076-sxeu8": "Potato"
+        }
+      },
+      {
+        "id": "8d2e",
+        "formId": "eefa25dd-b5c2-4160-bd04-a8a8b9f581c1",
+        "values": {
+          "EID_1726608457716-s8azh": "Vegetables",
+          "EID_1726608478076-sxeu8": "Tomato"
+        }
+      },
+      {
+        "id": "8d2e",
+        "formId": "eefa25dd-b5c2-4160-bd04-a8a8b9f581c1",
+        "values": {
+          "EID_1726608457716-s8azh": "Vegetables",
+          "EID_1726608478076-sxeu8": "Carrot"
+        }
+      },
+      {
+        "id": "8d2e",
+        "formId": "eefa25dd-b5c2-4160-bd04-a8a8b9f581c1",
+        "values": {
+          "EID_1726608457716-s8azh": "Vegetables",
+          "EID_1726608478076-sxeu8": "Onion"
+        }
+      },
+      {
+        "id": "8d2e",
+        "formId": "eefa25dd-b5c2-4160-bd04-a8a8b9f581c1",
+        "values": {
+          "EID_1726608457716-s8azh": "Fruits",
+          "EID_1726608478076-sxeu8": "Banana"
+        }
+      },
+      {
+        "id": "8d2e",
+        "formId": "eefa25dd-b5c2-4160-bd04-a8a8b9f581c1",
+        "values": {
+          "EID_1726608457716-s8azh": "Fruits",
+          "EID_1726608478076-sxeu8": "Apple"
+        }
+      },
+      {
+        "id": "8d2e",
+        "formId": "eefa25dd-b5c2-4160-bd04-a8a8b9f581c1",
+        "values": {
+          "EID_1726608457716-s8azh": "Dairy",
+          "EID_1726608478076-sxeu8": "Milk"
+        }
+      },
+      {
+        "id": "8d2e",
+        "formId": "eefa25dd-b5c2-4160-bd04-a8a8b9f581c1",
+        "values": {
+          "EID_1726608457716-s8azh": "Dairy",
+          "EID_1726608478076-sxeu8": "Butter"
+        }
+      },
+      {
+        "id": "8d2e",
+        "formId": "eefa25dd-b5c2-4160-bd04-a8a8b9f581c1",
+        "values": {
+          "EID_1726608457716-s8azh": "Dairy",
+          "EID_1726608478076-sxeu8": "Cream"
+        }
+      }
+    ]
+  }
